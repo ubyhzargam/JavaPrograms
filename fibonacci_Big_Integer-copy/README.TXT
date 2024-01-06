@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code uses BigInteger class. The code takes Integer input from the user(say n) and it prints Fibonacci sequence upto n terms.
+Larger sequences of Fibonacci possible due to the use of BigInteger class instead of using int data type.
