@@ -7,7 +7,7 @@ class Fibonacci
         int n;
         System.out.println("Enter the number of terms to be printed in Fibonacci series : ");
         n=sc.nextInt();
-        int a=1,b=1,c=0;
+        int a=0,b=1,c=0;
         System.out.println("The Fibonacci numbers are given by : ");
         if(n==0)
         return;
