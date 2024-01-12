@@ -21,7 +21,7 @@ class Test extends Thread
         for(int i=0;i<5;i++)
         {
             System.out.println("Inside Test Class");
-        //Thread.sleep(1);
+        Thread.sleep(1);
         }
         }
         catch(Exception e)
