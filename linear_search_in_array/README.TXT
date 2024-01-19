@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Click on .java file to access the code. The code takes the size of array as input from the user, it also takes the elements of the array as input from the user. It stores the elements in the form of an array by using a for loop. The user then enters the element to be searched in the array and the main function calls another function LS to search whether the entered element is present in the entered array. The LS function returns the index of the element if found else -1 in case the element was not found in the array. The main function then displays whether the element is present or not in the array. This implementation is using Linear Search technique.
