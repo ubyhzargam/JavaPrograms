@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The code can be accessed by opening .java file. This code takes input of the number of elements and the elements of the array as input from the user. The main function after taking the input calls reverse() function to reverse the given array. The main function then prints the updated array in reverse order. This code is implemented using JAVA language.
