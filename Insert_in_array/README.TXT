@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Go to .java file to access the code. This code is implemented using JAVA. The code takes the number of elements, the elements of the array,the element to be inserted, the position to be inserted from the user. The main function then calls another function to insert the element. If the capacity of the array is full, then the element is not inserted. In this program, the capacity is considered to be 50, you can change it accordingly. The main program finally prints the updated Array.
