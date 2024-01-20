@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Go to .java file from the folder to access the JAVA code for this program. This code takes the number of elements and the array elements as input from the user. This happens in main function. The main function then calls SL function to find the second largest element in the array and find it's index. SL function returns the index of the second largest element to the main function, in case there is no second largest element, the function returns -1 to the main function. The main function then prints the results.
