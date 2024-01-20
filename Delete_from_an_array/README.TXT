@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Go to .java file to access the code. This code is implemented using JAVA. The code takes the number of elements, the elements of the array and the element to be deleted from the user. The main function then calls another function Delete() to delete the element. The main function finally prints the updated Array if the element is found and deleted else it prints the same array.
