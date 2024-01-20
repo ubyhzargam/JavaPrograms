@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Go to .java file to access the code. This code takes the number of elements and the elements of the array as input from the user. The main function after performing input calls MAX() function to find the maximum element of the array. The MAX() function returns the max element to the main function and the main function displays the max element to the user. This code is written in JAVA language.
