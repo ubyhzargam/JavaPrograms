@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+To access the code go to .java file from the same folder. This code takes the number of elements and the elements of the array as input from the user. The main function then calls LeftRotate function to update the array and left rotate it. The main function then prints the updated array. The language used heres is JAVA
