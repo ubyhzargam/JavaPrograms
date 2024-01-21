@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The code for this can be accessed by .java file present within the folder. This code takes a sorted array as input from the user and also it's size. The main function passes this array to RemoveDups() function. This function updates the original array and keep track of the size of the array, then the function returns the updated size to the main function which then prints the updated array. There is no auxillary space of O(n) in this method. In method1 we used a temporary array which was taking O(n) auxillary space but that is eliminated in this method. This code is written in JAVA language.
