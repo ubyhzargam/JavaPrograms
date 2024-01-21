@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The code for this can be accessed by .java file present within the folder. This code takes a sorted array as input from the user and also it's size. The main function passes this array to RemoveDups() function. This function uses a temporary array and it keeps only the distinct elements and then the elements from the temporary array are copied back to the original array and the function returns the updated size to the main function which then prints the updated array. There is auxillary space of O(n) in this method. This can be overcome by eliminating the need of temporary array and dealing directly with the original array. For this, refer method 2 of which is also present in this repository.
