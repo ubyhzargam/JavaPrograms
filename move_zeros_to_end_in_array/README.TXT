@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code is implemented in JAVA language, to see the code click on .java file and you will find the code there. The main function takes the number of elements in the array and the elements as input from the user. The main function then calls another functions which moves all the zeros to the end of the array. The control goes back to the main function which then prints the updated array.
