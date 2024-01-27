@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The code for this program can be accessed from .java file in the folder. This program finds equilibrium index of an array such that the leftsum that is the sum of elements upto that index is equal to the sum of elements after that index that is rightsum. So, if leftsum=rightsum at any index of array then that index is known as equilibrium index. This code is implemented using JAVA language.
