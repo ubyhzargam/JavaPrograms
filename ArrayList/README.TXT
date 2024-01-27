@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The code for this program can be accessed by going to .java file from the folder. This program takes the number of elements and the elements of the array list as input from the user. The arraylist declaration is done in the main function. The elements entered by the user are appended to the Array List. The main function then prints the array list. This code is basic implmentation of array list. The code is implemented in java language.
