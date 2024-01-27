@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+You can access the code for this program by going to .java file from the folder. This program takes the number of elements n, the array elements and the number of consecutive elements k from the user as input. The program then calculates the maximum sum of 'k' consecutive elements from an array of 'n' elements. This calculation is done by MaxSum function which is called by the main function. The MaxSum function returns the maximum sum of k consecutive elements in the array, if n<k, then the function returns -1 to the main function which then prints Invalid  in that case. The implementation of the code is done in JAVA language.
