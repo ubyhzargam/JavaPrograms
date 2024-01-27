@@ -4,19 +4,18 @@ class max_sum
     
     private static int MaxSum(int arr[],int k)
     {
-        int maxsum=0;
+        int maxsum=0,sum=0;
         int n=arr.length;
         if(n<k)
         return -1;
         else
         {
-            int sum=0;
             for(int i=0;i<k;i++)
             maxsum+=arr[i];
+            sum=maxsum;
             for(int i=k;i<n;i++)
             {
-                sum=0;
-                sum=maxsum-arr[i-k]+arr[i];
+                sum=sum-arr[i-k]+arr[i];
                 if(sum>maxsum)
                 maxsum=sum;
             }
