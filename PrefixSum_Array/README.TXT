@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+To access the code of this program go to .java file from the folder. This program takes the number of elements and the elements as input from the user and prints the prefixsum array that is the array that contains the sum of all elements upto ith index of the original array. Prefixsum[i]= arr[i]+arr[i-1]+arr[i-2]+........arr[0]. This code is implemented in JAVA language
