@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The code for this can be accessed from .java file present in the folder. This code takes input n as input from the user. The main funtion then calls a recursive function Facorial which takes parameter n and returns the factorial of n back to main function which then prints it. This code is implemented using JAVA language.
