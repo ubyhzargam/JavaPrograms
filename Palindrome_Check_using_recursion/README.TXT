@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Head to .java file to access the code of this program. This code takes a string as input from the user and calls a recursive function isPal to check whether the entered string is palindromic or not. The function isPal returns boolean type value to the main function that is it returns true in case the string is palindromic in nature or else it returns false and then the main function prints results accordingly.
