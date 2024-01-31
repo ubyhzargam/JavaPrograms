@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes 4 inputs from the user : n,a,b and c. This solves a rope cutting problem, it considers a rope of length n and returns the maximum number of cuts possible such that the remaining elements of the rope are equal to either a,b or c. If there is no possibility of the above mentioned then it returns -1. This is implemented using recursion
