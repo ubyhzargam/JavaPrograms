@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code is an implementation of Hashing using Chaining for collision and the size of HashMap is taken as 7. ArrayList is used to implment HashTable, ArrayList of Linked Lists so that chaining can be maintained. There are three functions Insert, Search and Delete which are implemented in this program. The code for this program can be accessed by going to .java file.
