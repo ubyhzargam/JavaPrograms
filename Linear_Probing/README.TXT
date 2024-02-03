@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is a basic implementation of Hashing with Search, Insert and Delete Operations. Open addressing technique is used in case of collision. To be more specific, Linear Probing technique is used. The capcity of the HashMap or HashTable is taken as 7. The code can be accessed from .java file present in the folder.
