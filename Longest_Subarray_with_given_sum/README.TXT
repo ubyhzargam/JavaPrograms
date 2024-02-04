@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes number of elements, the array elements and the sum as input from the user and then the main function calls another function which returns the maximum length of subarray within the array with entered sum else it returns 0. The main function prints the retured result to the user. The implementation of the functionality is done using HashMap. The code can be accessed by heading to .java file present in the folder.
