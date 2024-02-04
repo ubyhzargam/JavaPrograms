@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the number of elements and the elements of the array as input from the user in the main function and passess the array to another function to check if the array contains a subarray with sum =0. The function called by the main function has return type boolean and returns true or false value back to the main function which then prints the result. This code can be found in the .java file present in the folder.
