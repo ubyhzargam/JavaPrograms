@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The main function of this code takes the number of elements in the array, the elements in the array and the sum as input from the user and then it calls another function and passes array and sum as parameters. The called function is of boolean return type and it returns true if the array passes has a contiguous subarray with the sum passed else it returns false if there is no subarray with the given sum in the entered array. The code for this can be accessed by .java file
