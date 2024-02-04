@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the number of elements and the elements of array as input from the user in the main function and then calls a function to calculate the frequency of occurence of elements in the array. This funcitonality is implemented using HashMap data structure. The function called by the main function prints the elements and it's frequency after calculation. The code can be found in .java file in the folder.
