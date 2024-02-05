@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the number of elements in the array, the array elements in sorted order and the element to be searched as input from the user in the main functions which then calls another function BS by passing array and the key to be searched as parameters. This function implements Binary search through iteration and returns the main function the index of the element in the array if present else it returns -1. The main function prints the results. The code can be accessed from .java file in the folder.
