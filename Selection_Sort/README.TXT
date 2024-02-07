@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the number of elements and the array elements as input from the user in the main function. The main function then calls SelectionSort function and passes the array as parameter to that function. This function implements the technique of Selection Sort through iteration and sorts the array and then returns the control to main function which then prints the sorted array. The code to this can be accessed from .java file
