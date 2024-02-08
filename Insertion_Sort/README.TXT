@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes number of elements and the array elements as input from the user. The main function then calls the function InsertionSort by passing array as parameter. This function uses iterative Insertion Sort technique to sort the array and the control goes back to the main funciton . The main function then prints the sorted array. To access the code go to .java file present in the folder.
