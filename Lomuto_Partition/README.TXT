@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the number of elements and the array elements as input from the user. It also takes the index of the array element about which it has to be partitioned. The main function then calls LomutoPartition function which implements Lomuto algorithm to partition the array and then the main function prints the final result. The code to this can be accessed from .java file in the folder
