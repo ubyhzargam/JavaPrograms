@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code partitions the array at the pivot element entered by the user as input. The array also is entered by the user as input. The elements to the left of the array are lesser than the pivot element and the elements to the right of the array are greater than the pivot element. The code then prints the new array. The assumption is that there is only one pivot element in the array and there are no duplicates of pivot in the array. The code can be found in .java file 
