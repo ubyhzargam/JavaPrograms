@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes array elements as input from the user and then calls a function to calculate the minimum difference between elements in the entered array, the absolute difference between elements to be specific. The function returns the minimum difference to the main function, if there are just 0 or 1 elements in the entered array then the function returns the maximum Integer value to the main function. The main function then prints the minimum difference.
