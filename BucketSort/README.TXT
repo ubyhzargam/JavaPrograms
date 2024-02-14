@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code uses Bucket Sort algorithm to sort array elements entered by the user as input. The code also takes the number of buckets as input from the user. The assumption is that the number of buckets is greater than 0. The code then prints the final array which is sorted as output. The code to this can be accessed from .java file present in the folder. 
