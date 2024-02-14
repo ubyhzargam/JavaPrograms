@@ -1,0 +1,1 @@
+This code takes two sorted arrays as input from the user and then prints the Intersection of the two arrays using a third array. The Intersection of the two arrays is also sorted. To access the code go to .java file 
