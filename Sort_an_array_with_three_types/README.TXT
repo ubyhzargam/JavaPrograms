@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes an array as input from the user. The array contains elements 0,1 and 2 in random order. The aim is to sort the element in increasing order and bring all the alike elements together. This code does exactly that and modifies the array accordingly. The code finally prints the modified array after the sorting has been done. The code for this can be accessed from .java file
