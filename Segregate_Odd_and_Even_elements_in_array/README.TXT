@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes array as input from the user. The code then segregates the odd and even elements in the array. The even elements are moved to the left side of the array and the odd elements are moved to the right side of the array. The code then finally prints the updated or modified array with even elements to the left and odd elements to the right.
