@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the array as input from the user and also takes k as input to find kth smallest element in the array. The code uses Lomuto's partition algorithm to find kth smallest element. The main function then prints the kth smallest element in the entered array. Goto .java file to access the code for this.
