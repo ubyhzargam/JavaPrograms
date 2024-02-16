@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes an input of array. Each array element has two elements or values in it, one is start interval and the other is end interval. The aim of this code is to merge the overlapping intervals if any and print the final array elements after merging the intervals in case they are overlapping. The code for this program can be accessed from .java file present in the folder.
