@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes two arrays as input from the user. One is the arrival time array and other is departure time array of guests in a meeting. The values these arrays can take range from 0 to 2359. The code calculates the maximum number of guests one can meet given the arrival and departure times. The code to this can be found in .java file present in the folder.
