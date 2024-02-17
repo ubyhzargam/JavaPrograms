@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code implements Recursive search of an element in a linked list and returns the position of the element if found else it returns -1. The main function takes the number of elements and the elements of linked list as input. It also takes the element to search as input from the user. The code then finally prints the position of element if found else prints that it is not found. The code can be accessed from .java file present in the folder.
