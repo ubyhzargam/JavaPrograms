@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This codes takes the input of elements in linked list from the user. It also takes the element to be inserted and the position at which it should be inserted as input from the user. If position > the number of nodes/elements in linked list the same linked list will be printed i.e., the element will not be inserted. In all other cases, the element will be inserted at postion specified and the modified linked list will be printed. The code to this can be found in the .java file present in the folder.
