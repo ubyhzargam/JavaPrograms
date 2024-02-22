@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes the linked list as input from the user and prints the middle element. If there are no elements in the linked list then the code does not print anything, if there are two middle elements the code prints the second one. This code uses a slow and fast pointer technique to find the middle element in one traversal of linked list. The code to this can be accessed from .java file present in the folder.
