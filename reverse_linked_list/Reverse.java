@@ -1,24 +1,20 @@
 import java.util.Scanner;
-class Print
+class Reverse
 {
-    private static void printNthfromEnd(Node head, int n)
+    private static Node reverse(Node head)
     {
-        if(head==null)return;
-        Node first=head;
-        for(int i=0;i<n;i++)
+        if(head==null)return null;
+        Node curr=head,prev=null,next=head;
+        while(curr!=null)
         {
-            if(first==null)return;
-            first=first.next;
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
-        Node second=head;
-        while(first!=null)
-        {
-            second=second.next;
-            first=first.next;
-        }
-        System.out.println("The "+n+" th element from the end of linked list is "+second.data);
+        return prev;
     }
-    public static void main(String []args)
+     public static void main(String []args)
     {
         Scanner sc=new Scanner(System.in);
         int n;
@@ -40,9 +36,14 @@ class Print
             temp1.next=temp2;
             temp1=temp2;
         }
-        System.out.println("Enter the value of n to print the nth element from the end");
-        n=sc.nextInt();
-        printNthfromEnd(head,n);
+        System.out.println("The reversed linked list is given by ");
+        head=reverse(head);
+        Node curr=head;
+        while(curr!=null)
+        {
+        System.out.print(curr.data+" ");
+        curr=curr.next;
+        }
     }
 }
 
