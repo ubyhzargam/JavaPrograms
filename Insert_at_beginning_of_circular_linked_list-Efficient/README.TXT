@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This code takes circular linked list as input from the user and it also takes the element to be inserted at the beginning of the circular  linked list. The code inserts the new element at the beginning of the linked list and the code prints the modified linked list. To access the code goto .java file from the folder. This is a more efficient solution and works in constant time complexity
