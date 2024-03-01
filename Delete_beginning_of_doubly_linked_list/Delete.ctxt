@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Delete
+comment1.params=head
+comment1.target=Node\ DeleteBeg(Node)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
